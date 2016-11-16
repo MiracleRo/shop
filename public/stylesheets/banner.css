@@ -1,0 +1,38 @@
+.banner{
+	height: 445px;
+	width: 1440px;
+}
+.banner img{
+	position: relative;
+	top: 33px;
+	width: 1440px;
+}
+.buy_now{
+	text-align: center;
+    padding-top: 13px;
+    height: 30px;
+    width: 90px;
+    position: relative;
+    margin: 0 auto;
+    background-color: white;
+    top: -65px;
+    font-family:'微软雅黑';
+    font-size:14px;
+    font-weight:bold;   
+}
+.buy_now a{
+    color: #000000;
+}
+#go_left{
+    width: 15px;
+    height: 25px;
+    position: absolute;
+    top: 370px;
+}
+#go_right{
+    width: 15px;
+    height: 25px;
+    position: absolute;
+    top: 370px;
+    left: 1420px;
+}

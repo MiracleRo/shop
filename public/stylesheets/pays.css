@@ -1,0 +1,68 @@
+.pays{
+	height: 322px;
+	width: 1440px;
+	background-color:#000000; 
+}
+.pays_con{
+	margin: 0 220px;
+}
+.cons{
+	display: inline-block;
+	text-align: center;
+}
+
+.cons li{
+ line-height: 43px;
+}
+.branch{
+	position: relative;
+	top: 32px;
+}
+.payfor{
+	position: relative;
+	left: 165px;
+	top: -12px;
+}
+.help{
+	position: relative;
+	left: 340px;
+	top: -12px;
+}
+.pays_con a{
+	font-size: 12px;
+	color: #ffffff;
+	font-family: '微软雅黑';
+}
+#fir_bracnh{
+	font-size: 14px;
+}
+#fir_payfor{
+	font-size: 14px;
+}
+#fir_help{
+	font-size: 14px;
+}
+.winscore{
+	display: inline-block;
+	color: #ffffff;	
+	position: relative;
+	left: 578px;
+    top: -158px;
+}
+.winscore span{
+	font-size: 14px;
+	font-family: '微软雅黑';
+	position: relative;
+    top: 133px;
+    left: -147px;
+    letter-spacing: 3px;
+}
+#weibo{
+	position: relative;
+	left: 63px;
+}
+#erwei{
+	position: relative;
+    top: 106px;
+    left: -66px;
+}

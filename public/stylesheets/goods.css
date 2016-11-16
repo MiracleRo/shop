@@ -1,0 +1,27 @@
+.goods{
+	height:1755px ;
+	width: 1440px;
+}
+.goods_con{
+	margin: 0 220px;
+}
+.season{
+	position: relative;
+    top: 31px;
+}
+.color{
+	position: relative;
+    top: 81px;
+}
+.season_img{
+	display: inline-block;
+	margin-right: 20px;
+}
+.color_img{
+	display: inline-block;
+	margin-right: 21px;
+}
+.jean{
+	position: relative;
+    top: 123px;
+}

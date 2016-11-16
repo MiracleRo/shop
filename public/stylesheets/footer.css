@@ -1,0 +1,20 @@
+.footer{
+	height: 215px;
+	width: 1440px;
+	background-color: #000000;
+	border-top: 1px solid #a9a6a6;
+}
+.footer_con{
+	margin: 0 220px;
+	position: relative;	
+    top: 32px;
+}
+.footer_con p{
+	text-align: center;
+	color: #ffffff;
+	font-size: 12px;
+	font-family: '微软雅黑';
+}
+#footer_logo{
+	font-size: 30px;
+}

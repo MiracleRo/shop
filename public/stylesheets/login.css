@@ -1,0 +1,86 @@
+.login{
+	width: 1440px;
+	height: 540px;
+}
+.login_con{
+	margin: 0 220px;
+}
+.login_title{
+	width: 113px;
+	background-color:#ffffff; 
+	font-size:12px;
+	font-family:'微软雅黑';
+	color: #000000;
+	position: relative;
+	top: -8px;
+    left: 451px;
+	text-align: center;
+}
+.log p{
+	font-size:14px;
+	font-family:'微软雅黑';
+	color: #000000;   
+	margin-bottom: 37px;
+}
+.log{
+	width:220px;
+	height:440px;
+	margin: 21px  95px;
+	display: inline-block;
+}
+.log span{
+	font-size:18px;
+	font-family:'微软雅黑';
+	color: #000000;  	
+}
+.log input{
+	margin-bottom: 41px;
+    margin-top: 11px;
+    width: 212px;
+    height: 30px;
+    border: 2px solid #000000;
+}
+#num{
+	border: 2px solid #1f3622;
+}
+#forget{
+	position: relative;
+    top: -15px;
+}
+.log button{
+	width: 220px;
+	height: 40px;
+	border-style: none;
+	background-color: #627264;
+	font-size:18px;
+	font-family:'微软雅黑';
+	color: #ffffff;  
+	position: relative;
+    top: -12px;
+}
+.reg{
+	text-align: center;
+	display: inline-block;
+	font-size:18px;
+	font-family:'微软雅黑';
+	color: #000000;
+	position: relative;
+    top: -129px;
+    left: 216px;
+}
+.reg_user{
+	position: relative;
+    top: 18px;
+    line-height: 35px;
+}
+.reg button{
+	width: 220px;
+	height: 40px;
+	border-style: none;
+	background-color: #1f3622;
+	font-size:18px;
+	font-family:'微软雅黑';
+	color: #ffffff;  
+	position: relative;
+	top: 33px;
+}

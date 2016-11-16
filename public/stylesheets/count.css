@@ -1,0 +1,207 @@
+.count {
+    width: 1440px;
+    height: 1080px;
+}
+
+.count_con {
+    margin: 0 220px;
+}
+
+.count_title {
+    width: 41px;
+    background-color: #ffffff;
+    font-size: 12px;
+    font-family: '微软雅黑';
+    color: #000000;
+    position: relative;
+    top: -8px;
+    left: 484px;
+    text-align: center;
+}
+
+.flow {
+    height: 67px;
+    border: 2px solid #a2a3a2;
+    position: relative;
+    top: 32px;
+    margin-bottom: 64px;
+}
+
+.flow_con {
+    display: inline-block;
+    font-size: 14px;
+    font-family: '微软雅黑';
+    color: #a2a3a2;
+    position: relative;
+    left: 44px;
+    top: 23px;
+    margin-right: 193px;
+}
+
+#last_flow {
+    width: 68px;
+    margin: 0;
+}
+
+#bold_flow {
+    color: #000000;
+}
+
+.person_mes {
+    padding-left: 43px;
+    padding-top: 18px;
+    height: 48px;
+    border: 2px solid #a2a3a2;
+    font-size: 18px;
+    font-family: '微软雅黑';
+    color: #000000;
+}
+
+.message_div {
+    height: 795px;
+    border: 2px solid #a2a3a2;
+    position: relative;
+    top: 30px;
+}
+
+.mesdiv_left {
+    display: inline-block;
+    font-size: 14px;
+    font-family: '微软雅黑';
+    color: #000000;
+    position: relative;
+    left: 43px;
+    top: 20px;
+}
+
+.mesdiv_left select{
+    border: 2px solid #a2a3a2;
+    height: 33px;
+    font-size: 14px;
+    font-family: '微软雅黑';
+    color: #000000;
+    padding-left: 6px;
+    width: 252px;
+    height: 37px;
+}
+.mesdiv_left input{
+    border: 2px solid #a2a3a2;
+    height: 33px;
+    font-size: 14px;
+    font-family: '微软雅黑';
+    color: #000000;
+    padding-left: 6px;
+    width: 242px;
+        height: 31px;   
+}
+
+
+.mesdiv_left p {
+    font-size: 12px;
+    position: relative;
+    top: 14px;
+    letter-spacing: 2.5px;
+    line-height: 19px;
+}
+
+.homeadr {
+    margin-bottom: 7px;
+}
+
+.select {
+    margin-bottom: 26px;
+}
+
+.select>div {
+    margin-bottom: 12px;
+}
+
+.mesdiv_top {
+    font-size: 14px;
+    font-family: '微软雅黑';
+    color: #000000;
+    position: relative;
+    top: -646px;
+    left: 532px;
+    width: 440px;
+}
+
+.mesdiv_top select {
+    border: 2px solid #a2a3a2;
+    height: 33px;
+    font-size: 14px;
+    font-family: '微软雅黑';
+    color: #000000;
+    padding-left: 6px;
+    width: 250px;
+}
+
+.mesdiv_top>p {
+    margin-bottom: 9px;
+    margin-top: 29px;
+}
+
+#useremail {
+    border: 2px solid #a2a3a2;
+    width: 235px;
+    margin-right: 12px;
+    height: 31px;   
+}
+
+#mailtype {
+    width: 105px;
+    border: 2px solid #a2a3a2;
+    margin-left: 12px;
+    margin-right: 4px;
+    height: 31px;   
+}
+
+#day,
+#month {
+    width: 97px;
+}
+
+#year {
+    width: 135px;
+}
+
+.mesdiv_bottom {
+    font-size: 14px;
+    font-family: '微软雅黑';
+    color: #000000;
+    float: right;
+    display: inline-block;
+    position: relative;
+    top: -498px;
+    left: -49px;
+}
+.mesdiv_bottom input{
+    border: 2px solid #a2a3a2;
+    height: 33px;
+    font-size: 14px;
+    font-family: '微软雅黑';
+    color: #000000;
+    padding-left: 6px;
+    width: 242px;
+        height: 31px;   
+}
+.mesdiv_bottom button {
+    width: 220px;
+    height: 40px;
+    border-style: none;
+    background-color: #1f3622;
+    font-size: 18px;
+    font-family: '微软雅黑';
+    color: #ffffff;
+    position: relative;
+    top: 102px;
+    left: 30px;
+}
+
+.dar_mes {
+    margin-bottom: 26px;
+}
+
+.dar_mes p {
+    margin-bottom: 11px;
+}

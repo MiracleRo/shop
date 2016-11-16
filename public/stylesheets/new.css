@@ -1,0 +1,31 @@
+.new{
+	height:435px; 
+	width:1440px;
+	border-bottom: 1px #a9a6a6 solid;
+}
+.new_con{
+	margin: 0 220px;
+}
+.newgood{
+	font-family:'微软雅黑';
+	font-size: 18px;  
+	text-align: center;
+	position: relative;
+    top: 26px;
+
+}
+.new_good{
+	margin-right: 34px;
+	display: inline-block;
+	width: 210px;
+	position: relative;
+	top: 56px;
+	text-align: center;
+}
+.new_good span{
+	font-size:18px;
+	font-family:'微软雅黑';
+	color: #000000; 
+	position: relative;
+	top: 25px;
+}

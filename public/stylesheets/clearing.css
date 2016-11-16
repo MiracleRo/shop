@@ -1,0 +1,44 @@
+.clearing{
+	width: 1440px;
+	height: 582px;
+}
+.clearing_con{
+	margin: 0 220px;
+	font-size:14px;
+	font-family:'微软雅黑';
+	color: #000000;
+	letter-spacing: 2.6px;
+}
+.clear_title{
+	width: 41px;
+	background-color:#ffffff; 
+	font-size:12px;
+	font-family:'微软雅黑';
+	color: #000000;
+	position: relative;
+	top: -8px;
+    left: 484px;
+	text-align: center;
+}
+.clear_con p{
+	margin-bottom: 29px;
+	line-height: 23px;
+}
+.clear_con button{
+	width: 220px;
+	height: 40px;
+	border-style: none;
+	background-color: #1f3622;
+	font-size:18px;
+	font-family:'微软雅黑';
+	color: #ffffff;  
+	position: relative;
+	margin-bottom: 11px;
+}
+#last{
+	margin-bottom: 0px;
+}
+.bank_img{
+	margin-top: 5px;
+	margin-bottom: 25px;
+}

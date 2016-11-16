@@ -1,0 +1,346 @@
+body {
+    margin: 0px;
+}
+
+.top {
+    height: 155px;
+    width: 1440px;
+    border-bottom: 1px #a9a6a6 solid;
+}
+
+.top_con {
+    margin: 0 220px;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+
+/*收货地址导航栏*/
+
+.adress {
+    background-color: #ffffff;
+    z-index: 50;
+    position: absolute;
+    display: none;
+    height: 420px;
+    width: 307px;
+    border: 1px solid #141a2a;
+}
+
+.adress hr {
+    font-weight: normal;
+    border-top: 1px solid #000000;
+    position: relative;
+    top: -13px;
+    left: 1px;
+    width: 275px;
+}
+
+.adress p {
+    font-weight: bold;
+    position: relative;
+    top: -4px;
+    left: 15px;
+    font-size: 15px;
+    font-family: '微软雅黑';
+    letter-spacing: 2px;
+}
+
+.adress li {
+    position: relative;
+    list-style: none;
+    color: #000000;
+    font-family: '微软雅黑';
+    font-size: 12px;
+    left: 15px;
+    top: -1px;
+    line-height: 23px;
+}
+
+.adress span {
+    font-weight: bold;
+    margin-right: 30px;
+}
+
+.nav {
+    width: 80px;
+}
+
+.nav a {
+    margin-right: 15px;
+    color: #000000;
+}
+
+.nav:hover .adress {
+    display: block;
+}
+
+.nav a:hover {
+    font-weight: bold;
+}
+
+.nav img {
+    position: relative;
+    left: 1px;
+    top: -1px;
+}
+
+
+/*收货地址导航栏*/
+
+
+/*用户导航栏*/
+
+.personalcenter {
+    display: inline;
+    position: relative;
+    left: -5px;
+}
+
+.person_hide {
+    z-index: 99;
+    width: 97px;
+    height: 49px;
+    border: 1px solid #000000;
+    visibility: hidden;
+    position: absolute;
+    left: 0px;
+    padding-top: 10px;
+    padding-left: 4px;
+    top: 17px;
+}
+
+.user_nav {
+    color: #6d6d6d;
+    position: relative;
+    left: -165px;
+    float: right;
+    top: -18px;
+}
+
+.user_nav a {
+    color: #6d6d6d;
+    font-size: 12px;
+    font-family: '微软雅黑';
+    margin-right: 15px;
+    margin-left: 10px;
+}
+
+.shop {
+    position: relative;
+    top: -20px;
+    left: 505px;
+    width: 220px;
+}
+
+.person_hide li {
+    list-style: none;
+    line-height: 20px;
+}
+
+.personalcenter:hover .person_hide {
+    visibility: visible;
+}
+
+#shoppingcar {
+    position: relative;
+    left: -8px;
+    top: 1px;
+}
+
+#mobile {
+    position: relative;
+    left: 8px;
+    top: 2px;
+}
+
+.shop a {
+    position: relative;
+    left: 2px;
+}
+
+.personalcenter img {
+    position: relative;
+    top: 1px;
+    left: 5px;
+}
+
+#tmailshop_icon {
+    position: relative;
+    left: 8px;
+    top: 1px;
+}
+
+#tmailshop {
+    position: relative;
+    left: -7px;
+}
+
+.personalcenter a:hover {
+    font-weight: bold;
+}
+
+
+/*用户导航栏*/
+
+
+/*所有宝贝栏*/
+
+.all_goods {
+    height: 20px;
+    position: relative;
+    top: 92px;
+}
+
+.classes {
+    background-color: #23253a;
+    text-align: center;
+    width: 70px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 6px;
+    padding-right: 90px;
+}
+
+.classes:hover {
+    background-color: #1f3622;
+}
+
+.all_goods>a {
+    font-size: 14px;
+    font-family: '微软雅黑';
+    color: #1f3622;
+    font-weight: bold;
+}
+
+.classes a {
+    font-size: 12px;
+    font-family: '微软雅黑';
+    color: #ffffff;
+}
+
+.hide_class {
+    z-index: 90;
+    display: none;
+    position: absolute;
+}
+
+.all_goods:hover .hide_class {
+    display: block;
+}
+
+.by_class {
+	display: none;
+	z-index: 88;
+	background-color: #1f3622;
+    height: 196px;
+    width: 160px;
+    position: absolute;
+    top: 0px;
+    left: 166px;
+}
+.by_classes:hover{
+	background-color: #000000;
+}
+.classes:hover .by_class{
+    display: block;
+}
+
+.by_classes {
+    background-color: #1f3622;
+    text-align: center;
+    width: 70px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 90px;
+}
+
+.by_classes a {
+    font-size: 12px;
+    font-family: '微软雅黑';
+    color: #ffffff;
+}
+
+
+/*所有宝贝栏*/
+
+
+/*logo*/
+
+.logo {
+    font-family: '微软雅黑';
+    font-size: 30px;
+    position: relative;
+    top: -7px;
+    left: 390px;
+    width: 270px;
+}
+
+.envy {
+    color: #23253a;
+}
+
+.look {
+    color: #1f3622;
+}
+
+.logo span {
+    letter-spacing: 8px;
+}
+
+
+/*logo*/
+
+
+/*全部分类右侧导航栏*/
+
+.all_nav {
+    position: relative;
+    left: 68px;
+    top: 71px;
+}
+
+.all_nav a {
+    font-weight: bold;
+    font-size: 14px;
+    font-family: '微软雅黑';
+    color: #1f3622;
+    margin-left: 32px;
+}
+
+
+/*搜索栏*/
+
+.search {
+    position: relative;
+    top: 8px;
+    left: 688px;
+    width: 310px;
+}
+
+.search input {
+    padding-left: 10px;
+    border: 2px solid #a9a6a6;
+    height: 28px;
+    width: 308px;
+    font-size: 12px;
+    font-family: '微软雅黑';
+    letter-spacing: 2px;
+}
+
+.search img {
+    position: relative;
+    top: -29px;
+    left: 282px;
+}
+
+#search_img:hover{
+    cursor: pointer;
+}
+/*搜索栏*/
